@@ -22,13 +22,13 @@ msgstr ""
 #. module: account_invoice_force_number
 #: model:res.groups,name:account_invoice_force_number.group_allow_invoice_force_number
 msgid "Allow \"Invoice Force Number\""
-msgstr ""
+msgstr "Uaktywnij \"Wymuś numer faktury\"
 
 #. module: account_invoice_force_number
 #: model:ir.ui.view,arch_db:account_invoice_force_number.account_invoice_form_force_number
 #: model:ir.ui.view,arch_db:account_invoice_force_number.invoice_supplier_form
 msgid "Force Number"
-msgstr ""
+msgstr "Wymuś numer"
 
 #. module: account_invoice_force_number
 #: model:ir.ui.view,arch_db:account_invoice_force_number.account_invoice_form_force_number
@@ -36,7 +36,7 @@ msgstr ""
 msgid ""
 "Force invoice number. Use this field if you don't want to use the default "
 "numbering"
-msgstr ""
+msgstr "Wymuś numer faktury. Użyj tego pola jeśli nie chcesz korzystac z domyślnego numeru faktury."
 
 #~ msgid "Invoice"
 #~ msgstr "Faktura"
