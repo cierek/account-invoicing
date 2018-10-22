@@ -17,5 +17,5 @@
     'views/account_invoice_force_number_customer.xml',
     'views/account_invoice_force_number_vendor.xml',
     ],
-    'live_test_url': 'https://www.youtube.com/watch?v=Rx7b3D5dRu8',
+    'live_test_url': 'https://youtu.be/_B-V-5Bz4gY',
 }
